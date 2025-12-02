@@ -4,10 +4,8 @@
 This project explores the fundamental differences in word embedding techniques by comparing **Predictive Models (Word2Vec)** and **Count-based Models (GloVe)**.
 
 ## Team Members
-| Name | Student ID |
-| :--- | :--- | :--- |
-| Jiho Jun | 9080800 |
-| Vishnu Sivaraj | 9025320   |
+Name: Jiho Jun / Student ID: 9080800
+Name: Vishnu Sivaraj / Student ID: 9025320
 
 ## Dataset Description
 We utilized two contrasting corpora to analyze domain adaptation and temporal shifts in word meaning.
